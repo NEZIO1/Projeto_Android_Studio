@@ -2,4 +2,5 @@
 <resources>
 
     <style name="Theme.HelloWorld" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Challenge" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
